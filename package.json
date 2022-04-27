@@ -1,5 +1,5 @@
 {
-  "name": "@vasiliyrusin/v-nodes",
+  "name": "@vasiliyrusin/v-node",
   "version": "2022.04.27",
   "description": "",
   "main": "dist/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VasiliyRusin/v-nodes.git"
+    "url": "git+https://github.com/VasiliyRusin/v-node.git"
   },
   "keywords": [
     "vue",
@@ -20,9 +20,9 @@
   "author": "Vasiliy Rusin",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/VasiliyRusin/v-nodes/issues"
+    "url": "https://github.com/VasiliyRusin/v-node/issues"
   },
-  "homepage": "https://github.com/VasiliyRusin/v-nodes#readme",
+  "homepage": "https://github.com/VasiliyRusin/v-node#readme",
   "devDependencies": {
     "microbundle": "^0.14.2",
     "vue": "^2.6.13",
